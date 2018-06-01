@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RightToLeft Decimal EditText</string>
+
+    <string name="main_package_measurements">Package measurements</string>
+    <string name="main_weight_kg">Weight (kg)</string>
+    <string name="main_width_mtr">Width (mtr)</string>
+    <string name="main_height_mtr">Height (mtr)</string>
+    <string name="main_submit">Submit</string>
+</resources>
