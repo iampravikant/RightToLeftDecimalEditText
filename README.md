@@ -63,7 +63,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'io.iampravikant:rtledittext:1.0.0'
+  implementation 'io.pravikant:rtledittext:1.0.0'
 }
 ```
 Note: Don't forget to add `mavenCentral()` under `repositories` in root-level `build.gradle`
@@ -72,7 +72,7 @@ Note: Don't forget to add `mavenCentral()` under `repositories` in root-level `b
 
 ```xml
 <dependency>
-  <groupId>io.iampravikant</groupId>
+  <groupId>io.pravikant</groupId>
   <artifactId>rtledittext</artifactId>
   <version>1.0.0</version>
   <type>aar</type>
